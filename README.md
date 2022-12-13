@@ -1,2 +1,2 @@
-# copa-catar-2022
+# Coréia-do-sul-copa-2022
 Exercício da Copa
